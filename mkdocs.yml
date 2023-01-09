@@ -1,5 +1,5 @@
 site_name: Documentation - TypeGreek Windows
-site_url: https://stickypiston-development.github.io/typegreek-windows/
+site_url: https://stickypiston-development.github.io/typegreek-docs/
 nav:
     - 'Info':
         - 'Home': 'index.md'
@@ -16,3 +16,5 @@ nav:
         - 'Developing addons': 'developer/addons.md'
 theme:
     name: material
+    logo: assets/icon.png
+    favicon: assets/icon.png
