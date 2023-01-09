@@ -11,6 +11,11 @@
          <changefreq>daily</changefreq>
     </url>
     <url>
+         <loc>https://stickypiston-development.github.io/typegreek-docs/developer/contributing/</loc>
+         <lastmod>2023-01-09</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
          <loc>https://stickypiston-development.github.io/typegreek-docs/user/addons/</loc>
          <lastmod>2023-01-09</lastmod>
          <changefreq>daily</changefreq>
