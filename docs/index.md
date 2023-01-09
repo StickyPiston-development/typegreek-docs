@@ -24,6 +24,8 @@ At [addons (user)](user/addons.md) you can find info about how to install addons
 And [addons (developer)](developer/addons.md) shows you how to make your own addons.
 
 ### For developers
-```
-DOCS IN PROGRESS
-```
+#### Contributing
+Fork the github repository [(```https://github.com/StickyPiston-development/typegreek-windows.git```)](https://github.com/StickyPiston-development/typegreek-windows.git) and make some changes.
+Make a pull request and wait for a review. If your code is good we will accept it. For more details see [contributing](developer/contributing.md).
+#### Making addons
+Use the template for a blank addon [(```https://github.com/StickyPiston-development/typegreek-addon-template/generate```)](https://github.com/StickyPiston-development/typegreek-addon-template/generate) and make some changes. Share it with friends and let them share it. Syntax highlighting is included in the template. For more details see [addons (developer)](https://github.com/StickyPiston-development/typegreek-addon-template/generate).

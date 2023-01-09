@@ -1,1 +1,2 @@
 # Addons
+Use the template for a blank addon [(```https://github.com/StickyPiston-development/typegreek-addon-template/generate```)](https://github.com/StickyPiston-development/typegreek-addon-template/generate) and make some changes. Share it with friends and let them share it. Syntax highlighting is included in the template. 
