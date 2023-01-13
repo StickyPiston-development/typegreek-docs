@@ -2,19 +2,27 @@ site_name: Documentation - TypeGreek Windows
 site_url: https://stickypiston-development.github.io/typegreek-docs/
 nav:
     - 'Info':
-        - 'Home': 'index.md'
-        - 'Our site': 'https://stickypiston-development.github.io/typegreek-windows/'
-        - 'Download latest release': 'https://github.com/StickyPiston-development/typegreek-windows/releases/latest/download/TypeGreek-installer.exe'
-    - 'For users':
+        - 'Introduction': 'index.md'
+        - 'Website': 'https://stickypiston-development.github.io/typegreek-windows/'
+        - 'Latest release': 'https://github.com/StickyPiston-development/typegreek-windows/releases/latest/download/TypeGreek-installer.exe'
+    - 'Basic usage':
         - 'Installation': 'user/installation.md'
         - 'Program keybinds': 'user/keybinds.md'
         - 'Alphabet': 'user/alphabet.md'
         - 'Diacritics': 'user/diacritics.md'
-        - 'Addons': 'user/addons.md'
-    - 'For developers':
-        - 'Contributing': 'developer/contributing.md'
-        - 'Developing addons': 'developer/addons.md'
+    - 'Addons':
+        - 'Installing': 'user/addons.md'
+        - 'Developing': 'developer/addons.md'
+    - 'Contributing': 
+        - 'Forking': 'developer/forking.md'
+        - 'Syntax': 'developer/syntax.md'
+        - 'Merging': 'developer/merging.md'
 theme:
     name: material
     logo: assets/icon.png
     favicon: assets/icon.png
+    features:
+        - navigation.expand
+extra_javascript:
+  - javascripts/extra.js
+
