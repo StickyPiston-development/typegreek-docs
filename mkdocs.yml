@@ -17,12 +17,22 @@ nav:
         - 'Forking': 'developer/forking.md'
         - 'Syntax': 'developer/syntax.md'
         - 'Merging': 'developer/merging.md'
+
 theme:
     name: material
     logo: assets/icon.png
     favicon: assets/icon.png
     features:
         - navigation.expand
-extra_javascript:
-  - javascripts/extra.js
+extra: 
+    generator: false
+    social:
+    - icon: fontawesome/brands/github
+      link: https://github.com/StickyPiston-development
+      name: StickyPiston-development
+    - icon: octicons/globe-16
+      link: https://stickypiston-development.github.io/typegreek-windows/
+      name: TypeGreek windows website
+
+copyright: Copyright &copy; 2022 StickyPiston development
 
